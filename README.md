@@ -1,3 +1,6 @@
+### AI Disclosure:
+I used AI for explaining some issues with my implementations, since I'm not an experienced html programmer. I did not use AI to write or complete any components where AI use is prohibited. If AI was used for debugging or development, I am able to explain the relevant code and decisions.
+
 # Lab 6
 Jasper Crossley Blasio, GEOG 458, Section AD
 
